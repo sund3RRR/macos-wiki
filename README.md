@@ -52,9 +52,9 @@ fisher install IlanCosman/tide@v6
 ```
 ### Set up with default terminal app
 Change your shell entrypoint to `/opt/homebrew/bin/fish`
-![Pasted image 20240405074928.png](Pasted image 20240405074928.png)
+![terminal1.png](terminal1.png)
 Add `-fish` to black list **Ask before closing**
-![Pasted image 20240405075019.png](Pasted image 20240405075019.png)
+![terminal2.png](terminal2.png)
 Edit `~/.config/fish/config.fish` and add these lines to add homebrew packages to PATH
 #### **`~/.config/fish/config.fish`**
 ```fish
